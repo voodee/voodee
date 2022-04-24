@@ -2,5 +2,11 @@
 
 Senior Full Stack Developer, [SmartBot](https://github.com/SmartBotBlack/) Core Developer
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=voodee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voodee&layout=compact&theme=radical)
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=voodee&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voodee&layout=compact&theme=radical&hide_border=true" /> |
+| ------------- | ------------- |
