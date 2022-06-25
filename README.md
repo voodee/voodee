@@ -1,4 +1,4 @@
-### Hi there, I'm Roman Arestovich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Roman Arestovich <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 Senior Full Stack Developer, [SmartBot](https://github.com/SmartBotBlack/) Core Developer
 
